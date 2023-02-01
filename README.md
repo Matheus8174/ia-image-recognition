@@ -31,4 +31,3 @@ Nothing to see here. Just styles to make it look prettier. You can use or ignore
 ### ← script.js
 
 this is where the model is loded and put into operation with some lines of code to show the objects shapes
--------------------
